@@ -26,6 +26,7 @@ I build AI-powered products and teach practical **Agentic AI + AI Product Manage
 | Repository | Description |
 |------------|-------------|
 | **[agentic-ai-12-week-roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap)** | 12-week Agentic AI & LLM student roadmap |
+| **[ai-training-assistant](https://github.com/Akshay-Sharma-AI/ai-training-assistant)** | Mentor-style AI training assistant — study coach, lab buddy, mock interviewer |
 | **[rag-lab-handbook](https://github.com/Akshay-Sharma-AI/rag-lab-handbook)** | Build & explain a working RAG pipeline |
 | **[agentic-design-patterns](https://github.com/Akshay-Sharma-AI/agentic-design-patterns)** | Tools, handoffs, memory, guardrails, graphs, MCP |
 | **[Simple-llm-apps](https://github.com/Akshay-Sharma-AI/Simple-llm-apps)** | Practical LLM apps with Agents & RAG |
