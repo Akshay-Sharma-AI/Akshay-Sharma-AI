@@ -2,7 +2,7 @@
 
 **Senior AI & Data Product Manager** · Mentor to **1000+** professionals · MBA, **IIM Kozhikode**
 
-I build AI-powered products and teach practical **Agentic AI** — from n8n workflows and RAG to guardrails, tracing, and portfolio shipping.
+I build AI-powered products and teach practical **Agentic AI + AI Product Management** — discovery, PRDs, metrics, RAG, agents, and portfolio shipping.
 
 <p align="center">
   <a href="https://akkshaysharma.com/"><img src="https://img.shields.io/badge/Website-akkshaysharma.com-0F2C59?style=for-the-badge" alt="Website"></a>
@@ -14,25 +14,28 @@ I build AI-powered products and teach practical **Agentic AI** — from n8n work
 
 ## 📚 Featured repositories
 
-### Learning path (start here)
+### AI Product Management
 | Repository | Description |
 |------------|-------------|
-| **[agentic-ai-12-week-roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap)** | 12-week Agentic AI & LLM student roadmap — n8n, RAG, agents, deploy & MCP |
-| **[rag-lab-handbook](https://github.com/Akshay-Sharma-AI/rag-lab-handbook)** | Build & explain a working RAG pipeline (Pinecone / Chroma / n8n) |
-| **[agentic-design-patterns](https://github.com/Akshay-Sharma-AI/agentic-design-patterns)** | Practical playbook: tools, handoffs, memory, guardrails, graphs, MCP |
+| **[ai-product-discovery](https://github.com/Akshay-Sharma-AI/ai-product-discovery)** | Discover which GenAI ideas are worth building — canvas, sprints, kill criteria |
+| **[ai-prd-kit](https://github.com/Akshay-Sharma-AI/ai-prd-kit)** | PRD templates for GenAI, RAG, and agentic products |
+| **[genai-product-metrics](https://github.com/Akshay-Sharma-AI/genai-product-metrics)** | Quality, cost, safety metrics & weekly GenAI scorecards |
+| **[ai-pm-interview-kit](https://github.com/Akshay-Sharma-AI/ai-pm-interview-kit)** | AI / Data PM interview frameworks, cases & 14-day sprint |
 
-### Career & apps
+### Agentic AI learning path
 | Repository | Description |
 |------------|-------------|
-| **[ai-pm-interview-kit](https://github.com/Akshay-Sharma-AI/ai-pm-interview-kit)** | AI / Data PM interview frameworks, cases, metrics & 14-day sprint |
-| **[Simple-llm-apps](https://github.com/Akshay-Sharma-AI/Simple-llm-apps)** | Practical LLM apps with Agents & RAG (maintained learner fork) |
+| **[agentic-ai-12-week-roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap)** | 12-week Agentic AI & LLM student roadmap |
+| **[rag-lab-handbook](https://github.com/Akshay-Sharma-AI/rag-lab-handbook)** | Build & explain a working RAG pipeline |
+| **[agentic-design-patterns](https://github.com/Akshay-Sharma-AI/agentic-design-patterns)** | Tools, handoffs, memory, guardrails, graphs, MCP |
+| **[Simple-llm-apps](https://github.com/Akshay-Sharma-AI/Simple-llm-apps)** | Practical LLM apps with Agents & RAG |
 
 ---
 
 ## 🧠 Focus areas
 
-- AI / ML product strategy & agentic systems  
-- Hands-on learning paths that avoid the “Python wall”  
+- AI / ML product strategy, discovery, and PRDs  
+- GenAI metrics, evals, and agentic systems  
 - Mentorship for Product, AI/Data, and Consulting transitions  
 
 ---
@@ -49,7 +52,7 @@ I build AI-powered products and teach practical **Agentic AI** — from n8n work
 
 - 🌐 [akkshaysharma.com](https://akkshaysharma.com/)  
 - 💼 [linkedin.com/in/aakshaysharma](https://www.linkedin.com/in/aakshaysharma/)  
-- ⭐ Star the repos that help you — it supports open learning for students  
+- ⭐ Star the repos that help you — it supports open learning  
 
 ---
 
