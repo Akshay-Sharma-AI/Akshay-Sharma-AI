@@ -2,7 +2,7 @@
 
 **Senior AI & Data Product Manager** · Mentor to **1000+** professionals · MBA, **IIM Kozhikode**
 
-I build AI-powered products and help people break into Product, AI/Data, and Consulting roles with structured mentorship.
+I build AI-powered products and teach practical **Agentic AI** — from n8n workflows and RAG to guardrails, tracing, and portfolio shipping.
 
 <p align="center">
   <a href="https://akkshaysharma.com/"><img src="https://img.shields.io/badge/Website-akkshaysharma.com-0F2C59?style=for-the-badge" alt="Website"></a>
@@ -12,37 +12,46 @@ I build AI-powered products and help people break into Product, AI/Data, and Con
 
 ---
 
-## 🔭 Featured work
+## 📚 Featured repositories
 
-| Repo | What it is |
-|------|------------|
-| **[agentic-ai-12-week-roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap)** | 12-week Agentic AI & LLM student roadmap — n8n, RAG, agents, guardrails, deploy & MCP |
-| **[Simple-llm-apps](https://github.com/Akshay-Sharma-AI/Simple-llm-apps)** | Practical LLM apps with AI Agents & RAG (maintained fork for learners) |
+### Learning path (start here)
+| Repository | Description |
+|------------|-------------|
+| **[agentic-ai-12-week-roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap)** | 12-week Agentic AI & LLM student roadmap — n8n, RAG, agents, deploy & MCP |
+| **[rag-lab-handbook](https://github.com/Akshay-Sharma-AI/rag-lab-handbook)** | Build & explain a working RAG pipeline (Pinecone / Chroma / n8n) |
+| **[agentic-design-patterns](https://github.com/Akshay-Sharma-AI/agentic-design-patterns)** | Practical playbook: tools, handoffs, memory, guardrails, graphs, MCP |
+
+### Career & apps
+| Repository | Description |
+|------------|-------------|
+| **[ai-pm-interview-kit](https://github.com/Akshay-Sharma-AI/ai-pm-interview-kit)** | AI / Data PM interview frameworks, cases, metrics & 14-day sprint |
+| **[Simple-llm-apps](https://github.com/Akshay-Sharma-AI/Simple-llm-apps)** | Practical LLM apps with Agents & RAG (maintained learner fork) |
 
 ---
 
-## 🧠 What I focus on
+## 🧠 Focus areas
 
-- AI / ML product strategy & agentic systems
-- Career mentorship for PM, BA, Consulting, and AI/Data transitions
-- Hands-on learning paths that avoid the “Python wall” for students
+- AI / ML product strategy & agentic systems  
+- Hands-on learning paths that avoid the “Python wall”  
+- Mentorship for Product, AI/Data, and Consulting transitions  
 
 ---
 
 ## 📈 Snapshot
 
-- **10+ years** industry experience (Microsoft, EY, L&T, Bosch, Avalara, and more)
-- **20,000+** mentoring minutes · **5.0** rating from mentee reviews
-- Course creator & mentor — structured plans, mock interviews, portfolio guidance
+- **10+ years** industry experience (Microsoft, EY, L&T, Bosch, Avalara, and more)  
+- **20,000+** mentoring minutes · **5.0** mentee rating  
+- Structured plans, mock interviews, and portfolio guidance  
 
 ---
 
 ## 🔗 Connect
 
-- 🌐 Website: [akkshaysharma.com](https://akkshaysharma.com/)
-- 💼 LinkedIn: [linkedin.com/in/aakshaysharma](https://www.linkedin.com/in/aakshaysharma/)
-- ⭐ Star the [12-week Agentic AI roadmap](https://github.com/Akshay-Sharma-AI/agentic-ai-12-week-roadmap) if it helps you learn
+- 🌐 [akkshaysharma.com](https://akkshaysharma.com/)  
+- 💼 [linkedin.com/in/aakshaysharma](https://www.linkedin.com/in/aakshaysharma/)  
+- ⭐ Star the repos that help you — it supports open learning for students  
 
 ---
 
-> *“I am committed to being your mentor until you achieve your dream job.”* — [akkshaysharma.com](https://akkshaysharma.com/)
+> *“I am committed to being your mentor until you achieve your dream job.”*  
+> — [akkshaysharma.com](https://akkshaysharma.com/)
